@@ -1,0 +1,9 @@
+{
+    "it.zenitlab.cordova.plugins.zbtprinter": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mmilidoni/zbtprinter.git",
+            "subdir": "."
+        }
+    }
+}
